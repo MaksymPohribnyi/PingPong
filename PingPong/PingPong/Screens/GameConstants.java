@@ -10,7 +10,7 @@ public interface GameConstants {
 	public final int RACKET_WIDTH = 5;
 	public final int RACKET_LENGTH = 30;
 
-	public final int RACKET_INCREMENT = 2;
+	public final int RACKET_INCREMENT = 3;
 
 	public final int BALL_X_START = TABLE_WIDTH / 2;
 	public final int BALL_Y_START = TABLE_HEIGHT / 2;
